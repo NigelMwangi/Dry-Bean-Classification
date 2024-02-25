@@ -1,3 +1,3 @@
 # Dry-Bean-Classification
 
-## Currently ogoing
+## Currently ongoing
